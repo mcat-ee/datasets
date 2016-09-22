@@ -1,3 +1,14 @@
+The structure of each file is as follows:
+```
+[
+  {
+    "threadId": "number",
+    "teaser": "string" 
+  },
+  ...
+]
+```
+
 
 | Filename       | Number of unique threads |
 | ---------------|--------------------------|
